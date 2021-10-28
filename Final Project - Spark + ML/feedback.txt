@@ -1,0 +1,5 @@
+Good work. 
+Notes: duplicates treatment is missing; looks like your model is overfitting compared to Kaggle score.
+3rd plot should show Average ride length per pickup hour of the day.
+
+grade: 93
